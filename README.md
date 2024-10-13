@@ -50,7 +50,7 @@ Start Wazuh on Windows: <br/>
 <br />
 <br />
 Agent succesfully added: <br/>
-<img src="https://i.imgur.com/B0EnkeZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oEDfaeQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Generating Security Event on the Kali VM: <br/>
