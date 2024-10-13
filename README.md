@@ -61,6 +61,18 @@ Using Invoke AtomicRedTeam Framework for Demo: <br/>
 <img src="https://i.imgur.com/EkDjueO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Installing Invoke AtomicRedTeam: <br/>
+<img src="https://i.imgur.com/bCa2D4f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Generating Security Event on the Kali VM: <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Generating Security Event on the Kali VM: <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Generating Security Event on the Kali VM: <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
