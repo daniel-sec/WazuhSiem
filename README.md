@@ -25,7 +25,7 @@ Installing Wazuh on Ubuntu: <br/>
 <img src="https://i.imgur.com/scTvqHc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Temporary Credentials:  <br/>
+Temporary Credentials (web interface localhost port 443):  <br/>
  <img src="https://i.imgur.com/n9VWGLb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
