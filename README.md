@@ -25,8 +25,8 @@ Installing Wazuh on Ubuntu: <br/>
 <img src="https://i.imgur.com/scTvqHc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install Elastic Agent on Host:  <br/>
- <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Temporary Credentials:  <br/>
+ <img src="https://i.imgur.com/n9VWGLb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Succesfull installation: <br/>
