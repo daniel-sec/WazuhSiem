@@ -53,8 +53,8 @@ Agent succesfully added: <br/>
 <img src="https://i.imgur.com/oEDfaeQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Generating Security Event on the Kali VM: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Different Events on the agent: <br/>
+<img src="https://i.imgur.com/Y9mw36S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Generating Security Event on the Kali VM: <br/>
