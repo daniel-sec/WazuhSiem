@@ -41,8 +41,8 @@ Deploy new Agent: <br/>
 <img src="https://i.imgur.com/0VgXmWz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Generating Security Event on the Kali VM: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Running Command on Powershell as admin on windows to add as agent (Command:Invoke-WebRequest -Uri https://packages.wazuh.com/4.x/windows/wazuh-agent-4.9.0-1.msi -OutFile ${env.tmp}\wazuh-agent; msiexec.exe /i ${env.tmp}\wazuh-agent /q WAZUH_MANAGER='172.18.49.0' WAZUH_AGENT_NAME='windows' ): <br/>
+<img src="https://i.imgur.com/zH1xfcz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Generating Security Event on the Kali VM: <br/>
