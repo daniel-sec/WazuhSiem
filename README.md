@@ -1,11 +1,11 @@
 <h1>Wazuh SIEM</h1>
 
 <h2>Description</h2>
-A comprehensive Security Information and Event Management (SIEM) lab set up in a home environment to practice and refine cybersecurity skills. This project simulates real-world network conditions and threats, enabling hands-on experience in log analysis, threat detection, and incident response. 
+A comprehensive Security Information and Event Management (SIEM) to practice and refine cybersecurity skills. This project simulates real-world network conditions and threats, enabling hands-on experience in log analysis, threat detection, and incident response. I set up a basic Wazuh SIEM and began exploring its features. I installed agents and reviewed different types of security events, gaining initial insight into how Wazuh collects and analyzes data.
 <br />
 
 <h2>Project Hurdles and Outcome</h2>
-
+The project was successful, as I was able to set up the Wazuh SIEM and gain an initial understanding of its capabilities. There were no major hurdles during the setup process. However, Wazuh offers many features and options, leaving me with much more to learn as I continue exploring its monitoring and alerting potential. This setup provided a solid foundation for further exploration.
 <br />
 
 <h2>Languages and Utilities Used</h2>
@@ -57,29 +57,7 @@ Different Events on the agent: <br/>
 <img src="https://i.imgur.com/Y9mw36S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Using Invoke AtomicRedTeam Framework for Demo: <br/>
-<img src="https://i.imgur.com/EkDjueO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Installing Invoke AtomicRedTeam: <br/>
-<img src="https://i.imgur.com/bCa2D4f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-MITRE ATT&CK Technique: <br/>
-<img src="https://i.imgur.com/QkVkE8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Execute Technique: <br/>
-<img src="https://i.imgur.com/pkxH6hr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Generating Security Event on the Kali VM: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Generating Security Event on the Kali VM: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 <!--
  ```diff
