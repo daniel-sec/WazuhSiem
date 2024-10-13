@@ -66,7 +66,7 @@ Installing Invoke AtomicRedTeam: <br/>
 <br />
 <br />
 MITRE ATT&CK Technique: <br/>
-<img src="https://i.imgur.com/tjXKp7l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QkVkE8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Generating Security Event on the Kali VM: <br/>
