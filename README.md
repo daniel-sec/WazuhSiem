@@ -15,7 +15,7 @@ A comprehensive Security Information and Event Management (SIEM) lab set up in a
 
 <h2>Environments Used </h2>
 
-- <b>Ubuntu VM</b>
+- <b>Ubuntu Desktop 24.04.1 LTS VM</b>
 - <b>Windows 11 (32H2)</b>
 
 <h2>Program walk-through:</h2>
