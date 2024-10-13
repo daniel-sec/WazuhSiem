@@ -10,7 +10,7 @@ The project was successful, as I was able to set up the Wazuh SIEM and gain an i
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Wazuh (Open Source Security Platform</b> 
+- <b>Wazuh (Open Source Security Platform)</b> 
 - <b>VMware</b>
 
 <h2>Environments Used </h2>
